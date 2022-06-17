@@ -1,0 +1,28 @@
+Case -1 : Wrong pin is inserted three times.(Verified)
+
+Case-2: Correct pin is inserted and the user is directed to the main menu.(Verified)
+
+Case-3: Withdraw option is selected:-
+          
+       a) Extra amount is inserted and error is displayed.(Verified).
+
+       b) transaction Successfull.(Verified)
+Case-4: Deposit :-
+
+        a) Negative amount is inserted.(Verified)
+
+        b) Positive amount is inserted.(Verified)
+
+Case-5: Check Balance.(Verified)
+
+Case- 6: Change Pin:-
+
+a) Wrong pin (old) is inserted three times (Verified).
+
+b) Wrong confirmation pin(Verified).
+
+c) New pin confirmation.(Verified)
+
+Case -7: Wrong pin inserted for login.(Verified)
+
+
